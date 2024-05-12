@@ -22,7 +22,7 @@
 ### Acesso rápido à informação: O chatbot oferece respostas em segundos, agilizando a busca por informações.
 ### Respostas precisas e concisas: O LLM garante respostas relevantes e fáceis de entender, eliminando informações desnecessárias.
 ### Interface amigável: A interação com o chatbot é natural e intuitiva, como uma conversa.
-### Disponibilidade 24/7: Usuários podem acessar o chatbot a qualquer momento, de qualquer lugar.
+
 ## Impacto:
 ### Melhora a comunicação: Facilita o acesso à informação em qualquer organização, independentemente do tipo de documento ou base de dados.
 ### Otimiza o tempo: Elimina buscas manuais em diversos documentos e plataformas, liberando tempo para outras tarefas.
